@@ -1,0 +1,3 @@
+In my game the user will be prompted by a form that has a button which says play.  To start the game the user must click the button.  Once the button is pressed another form will load with a small black rectangle on the right side of the screen. Red balls will approach the rectangle and the user must use 'w' and 's' keyboard keys to move the rectangle up and down to avoid colliding with the balls. If a ball collides with the player's rectangle the game will end.
+
+I built my code in Visual Studio 2013 RC and I include Microsoft's Powerpacks library in order to generate the red balls and black rectangle.  To run this code open up Visual Studio, select open project and click on WindowsFormsApplication1 and then press the start button at the top of visual studio's toobar.
